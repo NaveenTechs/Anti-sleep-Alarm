@@ -54,5 +54,4 @@ This project is an educational prototype and is not a replacement for certified 
 
 ## Project Files
 
-- [Circuit Diagram](circuit-diagram.png)
 - [Arduino Source Code](Anti-Sleep-Alarm.ino)
